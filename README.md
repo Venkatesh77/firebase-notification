@@ -11,7 +11,7 @@ FCM_V1_okta_token'
 --header 'Content-Type: application/json' \
 --data '{
 "message": {
-"token": <Fcm token of device>,
+"token": "<fcm_token_of_device>",
 "data": {
 "caller_name": "Venkatesh"
 }
